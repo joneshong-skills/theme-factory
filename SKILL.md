@@ -16,6 +16,14 @@ license: Complete terms in LICENSE.txt
 
 This skill provides a curated collection of professional font and color themes, each with carefully selected color palettes and font pairings. Once a theme is chosen, it can be applied to any artifact.
 
+## Agent Delegation
+
+Delegate theme generation (color palettes, typography) to `designer` agent.
+
+- **Agent**: `designer` (Sonnet, maxTurns=20)
+- **Tools**: Read, Write, Edit, Bash, Glob
+- **Delegate when**: creating custom themes, applying color palettes, selecting font pairings, generating theme CSS/tokens
+
 ## Purpose
 
 To apply consistent, professional styling to presentation slide decks, use this skill. Each theme includes:
