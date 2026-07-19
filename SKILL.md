@@ -1,15 +1,11 @@
 ---
 name: theme-factory
-description: >-
-  Toolkit for styling artifacts with a theme. These artifacts can be slides,
-  docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with
-  colors/fonts that you can apply to any artifact, or generate a new theme
-  on-the-fly. Triggers: "建立主題", "產生主題", "設計主題", "theme 工廠",
-  "品牌主題", "apply theme", "style my deck", "choose a theme".
+description: "theme, factory, artifacts, toolkit, styling, slides, docs"
 version: 0.1.0
 tools: Read
 argument-hint: "describe the artifact or theme you want (e.g. 'apply Ocean Depths theme to my slide deck')"
 license: Complete terms in LICENSE.txt
+disable-model-invocation: true
 ---
 
 # Theme Factory Skill
