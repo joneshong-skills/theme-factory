@@ -5,7 +5,6 @@ version: 0.1.0
 tools: Read
 argument-hint: "describe the artifact or theme you want (e.g. 'apply Ocean Depths theme to my slide deck')"
 license: Complete terms in LICENSE.txt
-disable-model-invocation: true
 ---
 
 # Theme Factory Skill
